@@ -2,3 +2,12 @@
 .ejemploclass {color: green;}
 h1 {color: red;}
 #ejercicio3 b {color:red;}
+
+#titulo {color: black;}
+body {background-color: #add8e6;}
+#advertencia {font-weight: bold; font-style: italic;}
+#cuadro_inicio {background-color: #C85C2E;}
+#inicio {color:#FFFFFF;}
+#inicio b {color: yellow;}
+#final{background-color: #C85C2E;color:#FFFFFF; color: yellow;}
+{color: yellow;}
